@@ -1,0 +1,14 @@
+{
+  "name": "valentinovich-template",
+  "author": "Valentinovich",
+  "version": "1.0.0",
+  "description": "Next.js Fast-Working Setup Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "license": "ISC"
+}
