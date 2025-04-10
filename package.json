@@ -3,9 +3,8 @@
   "author": "Valentinovich",
   "version": "1.0.0",
   "description": "Next.js Fast-Working Setup Template",
-  "main": "index.js",
   "scripts": {
-    "dev": "next dev -p 3077",
+    "dev": "next dev -p 3077 --turbo",
     "start": "next start -p 3077",
     "build": "next build",
     "lint": "eslint \"src/**/*.{js,jsx,ts,tsx}\"",

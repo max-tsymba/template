@@ -1,6 +1,4 @@
-import type { NextConfig } from 'next';
-
-const nextConfig: NextConfig = {
+const nextConfig = {
   trailingSlash: true,
   modularizeImports: {
     '@mui/icons-material': {
@@ -21,6 +19,7 @@ const nextConfig: NextConfig = {
 
     return config;
   },
+  /* config options here */
 };
 
 export default nextConfig;
