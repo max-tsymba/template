@@ -1,0 +1,151 @@
+/** **************************************
+* Inter
+*************************************** */
+@font-face {
+ font-family: "Inter";
+ src: local("Inter_24pt-Light"),
+  url("./inter/Inter_24pt-Light.ttf") format("truetype");
+ font-weight: 300;
+}
+
+@font-face {
+ font-family: "Inter";
+ src: local("Inter_24pt-Regular"),
+  url("./inter/Inter_24pt-Regular.ttf") format("truetype");
+ font-weight: 400;
+}
+
+@font-face {
+ font-family: "Inter";
+ src: local("Inter_24pt-Medium"),
+  url("./inter/Inter_24pt-Medium.ttf") format("truetype");
+ font-weight: 500;
+}
+
+@font-face {
+ font-family: "Inter";
+ src: local("Inter_24pt-SemiBold"),
+  url("./inter/Inter_24pt-SemiBold.ttf") format("truetype");
+ font-weight: 600;
+}
+
+@font-face {
+ font-family: "Inter";
+ src: local("Inter_24pt-Bold"),
+  url("./inter/Inter_24pt-Bold.ttf") format("truetype");
+ font-weight: 700;
+}
+
+/** **************************************
+* Aleo
+*************************************** */
+@font-face {
+ font-family: "Aleo";
+ src: local("Aleo-Light"),
+  url("./aleo/Aleo-Light.ttf") format("truetype");
+ font-weight: 300;
+}
+
+@font-face {
+ font-family: "Aleo";
+ src: local("Aleo-Regular"),
+  url("./aleo/Aleo-Regular.ttf") format("truetype");
+ font-weight: 400;
+}
+
+@font-face {
+ font-family: "Aleo";
+ src: local("Aleo-Medium"),
+  url("./aleo/Aleo-Medium.ttf") format("truetype");
+ font-weight: 500;
+}
+
+@font-face {
+ font-family: "Aleo";
+ src: local("Aleo-SemiBold"),
+  url("./aleo/Aleo-SemiBold.ttf") format("truetype");
+ font-weight: 600;
+}
+
+@font-face {
+ font-family: "Aleo";
+ src: local("Aleo-Bold"),
+  url("./aleo/Aleo-Bold.ttf") format("truetype");
+ font-weight: 700;
+}
+
+/** **************************************
+* Noto Sans
+*************************************** */
+@font-face {
+ font-family: "NotoSans";
+ src: local("NotoSans-Light"),
+  url("./notoSans/NotoSans-Light.ttf") format("truetype");
+ font-weight: 300;
+}
+
+@font-face {
+ font-family: "NotoSans";
+ src: local("NotoSans-Regular"),
+  url("./notoSans/NotoSans-Regular.ttf") format("truetype");
+ font-weight: 400;
+}
+
+@font-face {
+ font-family: "NotoSans";
+ src: local("NotoSans-Medium"),
+  url("./notoSans/NotoSans-Medium.ttf") format("truetype");
+ font-weight: 500;
+}
+
+@font-face {
+ font-family: "NotoSans";
+ src: local("NotoSans-SemiBold"),
+  url("./notoSans/NotoSans-SemiBold.ttf") format("truetype");
+ font-weight: 600;
+}
+
+@font-face {
+ font-family: "NotoSans";
+ src: local("NotoSans-Bold"),
+  url("./notoSans/NotoSans-Bold.ttf") format("truetype");
+ font-weight: 700;
+}
+
+/** **************************************
+* Roboto
+*************************************** */
+@font-face {
+ font-family: "Roboto";
+ src: local("Roboto-Light"),
+  url("./roboto/Roboto-Light.ttf") format("truetype");
+ font-weight: 300;
+}
+
+@font-face {
+ font-family: "Roboto";
+ src: local("Roboto-Regular"),
+  url("./roboto/Roboto-Regular.ttf") format("truetype");
+ font-weight: 400;
+}
+
+@font-face {
+ font-family: "Roboto";
+ src: local("Roboto-Medium"),
+  url("./roboto/Roboto-Medium.ttf") format("truetype");
+ font-weight: 500;
+}
+
+@font-face {
+ font-family: "Roboto";
+ src: local("Roboto-SemiBold"),
+  url("./roboto/Roboto-SemiBold.ttf") format("truetype");
+ font-weight: 600;
+}
+
+@font-face {
+ font-family: "Roboto";
+ src: local("Roboto-Bold"),
+  url("./roboto/Roboto-Bold.ttf") format("truetype");
+ font-weight: 700;
+}

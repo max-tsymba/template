@@ -1,0 +1,61 @@
+/** **************************************
+* Fonts
+*************************************** */
+@import url('../../public/fonts/font.css');
+
+/** **************************************
+* Plugins
+*************************************** */
+/* Normilize CSS */
+@import url('./normilize.css');
+
+/** **************************************
+* Baseline
+*************************************** */
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  -webkit-overflow-scrolling: touch;
+}
+
+body,
+#root,
+#root__layout {
+  font-family: 'Inter';
+  margin: 0;
+  display: flex;
+  flex: 1 1 auto;
+  min-height: 100%;
+  flex-direction: column;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+input[type='number'] {
+  -moz-appearance: textfield;
+  appearance: none;
+}
+
+input[type='number']::-webkit-outer-spin-button {
+  margin: 0;
+  -webkit-appearance: none;
+}
+
+input[type='number']::-webkit-inner-spin-button {
+  margin: 0;
+  -webkit-appearance: none;
+}
