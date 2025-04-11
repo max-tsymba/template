@@ -1,4 +1,8 @@
+'use client';
+
 import { ReactNode } from 'react';
+
+import { AppThemeProvider } from '@/shared/providers';
 
 import '@/styles/global.css';
 
@@ -9,7 +13,9 @@ interface IRootLayout {
 const RootLayout = ({ children }: IRootLayout) => {
   return (
     <html>
-      <body>{children}</body>
+      <body>
+        <AppThemeProvider>{children}</AppThemeProvider>
+      </body>
     </html>
   );
 };
